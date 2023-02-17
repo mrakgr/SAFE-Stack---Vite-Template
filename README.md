@@ -1,3 +1,7 @@
+# Note By Ghostlike
+
+I've adapted this template from the usual SAFE Stack template, updated all the packages and replaced Webpack with Vite. It has been made for the Youtube series: [The Fabled Web Adventure](https://www.youtube.com/playlist?list=PL04PGV4cTuIX3bNEDDyi1L27Si0qpyAJ7). If you've found this useful, please like and subscribe. Thank you.
+
 # SAFE Template
 
 This template can be used to generate a full-stack web application using the [SAFE Stack](https://safe-stack.github.io/). It was created using the dotnet [SAFE Template](https://safe-stack.github.io/docs/template-overview/). If you want to learn more about the template why not start with the [quick start](https://safe-stack.github.io/docs/quickstart/) guide?
