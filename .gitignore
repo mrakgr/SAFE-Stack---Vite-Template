@@ -7,6 +7,7 @@
 .ionide/
 .vs/
 deploy/
+deploy-js/
 obj/
 bin/
 output/
