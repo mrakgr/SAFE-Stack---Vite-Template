@@ -1,6 +1,6 @@
 # Note By Ghostlike
 
-I've adapted this template from the usual SAFE Stack template, updated all the packages and replaced Webpack with Vite. It has been made for the Youtube series: [The Fabled Web Adventure](https://www.youtube.com/playlist?list=PL04PGV4cTuIX3bNEDDyi1L27Si0qpyAJ7). If you've found this useful, please like and subscribe. Thank you.
+I've adapted this template from the usual SAFE Stack template, updated all the packages and replaced Webpack with Vite. It has been made for the Youtube series: [How To Setup Fable With Vite](https://www.youtube.com/playlist?list=PL04PGV4cTuIV-ZBoH5AJFsqfxiyAGq1mj). If you've found this useful, please like and subscribe. Thank you.
 
 # SAFE Template
 
