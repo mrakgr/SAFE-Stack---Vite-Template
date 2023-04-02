@@ -30,7 +30,7 @@ Target.create "Bundle" (fun _ ->
 
 Target.create "Azure" (fun _ ->
     let web = webApp {
-        name "safe_template_full_tutorial"
+        name "pick a name"
         operating_system OS.Windows
         runtime_stack Runtime.DotNet60
         zip_deploy "deploy"
@@ -41,7 +41,7 @@ Target.create "Azure" (fun _ ->
     }
 
     deployment
-    |> Deploy.execute "safe_template_full_tutorial" Deploy.NoParameters
+    |> Deploy.execute "Resource Group Name" Deploy.NoParameters
     |> ignore
 )
 
